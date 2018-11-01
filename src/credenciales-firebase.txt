@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/5.5.6/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyA41L3AlRLNeX_7l8qOUW1LaOmUZIwjJFI",
+    authDomain: "vue-firebase-login-69fb7.firebaseapp.com",
+    databaseURL: "https://vue-firebase-login-69fb7.firebaseio.com",
+    projectId: "vue-firebase-login-69fb7",
+    storageBucket: "vue-firebase-login-69fb7.appspot.com",
+    messagingSenderId: "582434290893"
+  };
+  firebase.initializeApp(config);
+</script>
